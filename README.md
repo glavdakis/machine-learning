@@ -1,6 +1,6 @@
 # Machine Learning Assignments
 
-Three Jupyter notebooks covering core ML concepts with practical implementations.
+Exercises for Machine Learning course at the Faculty of Informatics of Aristotle's University of Thessaloniki (AUTH) during the 2024-2025 academic year.
 
 ## 📋 Contents
 
@@ -9,7 +9,7 @@ Three Jupyter notebooks covering core ML concepts with practical implementations
 - Multi-class classification (One-vs-One, One-vs-Rest)
 - Datasets: Digits, Breast Cancer
 
-**Assignment 2: Decision Trees**
+**Assignment 2: Decision Trees and Model Evaluation**
 - Regression trees with hyperparameter tuning
 - Cross-validation (LOO, K-Fold, Nested CV)
 - Dataset: Diabetes
