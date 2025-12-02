@@ -1,11 +1,11 @@
 # Machine Learning Assignments
 
-Exercises for Machine Learning course at the Faculty of Informatics of Aristotle's University of Thessaloniki (AUTH) during the 2024-2025 academic year.
+Exercises for Machine Learning course at the Faculty of Informatics, Aristotle University of Thessaloniki (AUTH) during the 2024-2025 academic year.
 
 ## 📋 Contents
 
 **Assignment 1: Linear Models**
-- Custom logistic regression
+- Logistic regression
 - Multi-class classification (One-vs-One, One-vs-Rest)
 - Datasets: Digits, Breast Cancer
 
@@ -16,5 +16,5 @@ Exercises for Machine Learning course at the Faculty of Informatics of Aristotle
 
 **Assignment 3: Ensemble Methods**
 - Random Subspace Method
-- AdaBoost from scratch
+- AdaBoost
 - Dataset: Pima Indians Diabetes
