@@ -1,6 +1,6 @@
 # Machine Learning Assignments
 
-This repository contains exercises completed for the **Machine Learning** course at the **Faculty of Informatics, Aristotle University of Thessaloniki (AUTH)** during the **2024–2025 academic year**.
+This repository contains the assignments for the **Machine Learning** course at CSD AUTH during the 2024–2025 academic year.
 
 ## 📋 Contents
 
