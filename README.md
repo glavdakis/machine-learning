@@ -2,7 +2,7 @@
 
 This repository contains the assignments for the **Machine Learning** course at CSD AUTH during the 2024–2025 academic year.
 
-## 📋 Contents
+## Contents
 
 ### Assignment 1: Linear Models
 - **Logistic regression** modeling 
@@ -21,7 +21,7 @@ This repository contains the assignments for the **Machine Learning** course at 
 - Ensemble learning and performance comparison
 - **Dataset:** Pima Indians Diabetes (OpenML)
 
-## 🔧 Dependencies
+## Dependencies
 
 The notebooks require the following Python libraries:
 
@@ -30,7 +30,7 @@ The notebooks require the following Python libraries:
 - `scikit-learn` — ML algorithms, datasets, model selection, preprocessing, and evaluation  
 - `matplotlib` — plotting and data visualization  
 
-## 📦 Installation
+## Installation
 
 Install all required dependencies using **pip**:
 
